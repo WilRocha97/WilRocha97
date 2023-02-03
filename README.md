@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @WilRocha97
-- 👀 I’m interested in games, cars, movies, series, cience and tecnologi!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and javascript
 - 📫 How to reach me instagram @wilrocha_
 
 <!---
