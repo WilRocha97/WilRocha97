@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WilRocha97
-- 🌱 I’m currently learning python and javascript
-- 📫 How to reach me instagram @wilrocha_
+- 👋 Olá meu nome é Willian mas pode me chamar de Will
+- 🌱 Atualmente desenvolvo automações com python e estou me aprofundando em Front-end com HTML, CSS e JavScript
+- 📫 Meu instagram @wilrocha_
 
 <!---
 WilRocha97/WilRocha97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
